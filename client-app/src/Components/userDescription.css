@@ -1,0 +1,12 @@
+.userPic{
+    height: 50px;
+    width: 50px;
+}
+.userImgSize{
+    height: 150px;
+    width: 150px;
+  
+}
+.userRating{
+    color: yellow;
+}

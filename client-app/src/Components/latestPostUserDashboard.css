@@ -1,0 +1,23 @@
+.likeIcon,.commentIcon{
+    color: black;
+    text-decoration: none;
+}
+.likeIcon:hover,.commentIcon:hover{
+    color: black;
+}
+.flagIcon{
+    color: gray;
+    text-decoration: none;
+}
+.flagIcon:hover{
+    color: black;
+
+}
+.userInfoArea{
+    background-color: #011c38;
+    color:white;
+}
+.userPic{
+    height: 50px;
+    width: 50px;
+}

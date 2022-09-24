@@ -1,0 +1,41 @@
+.serviceImg{
+    width:max-content;
+}
+.serviceMessage{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    
+}
+.joinTeam{
+
+    background-color:#011c38 ;
+    font-size: 20px;
+    color:#fff;
+    padding: 10%;
+    margin-left:8% ;
+}
+.attemptQuiz {
+
+    background-color:#011c38 ;
+    color:#fff;
+    font-size: 20px;
+    padding: 10%;
+    
+    margin-top: 20% !important;
+    margin-left:5% ;
+}
+.earnBadges{
+    background-color:#ea6645 ;
+    font-size: 20px;
+    padding: 10%;
+    color:#fff;
+    margin-top: 15% !important;
+    margin-left:5% ;
+}
+.askQueries{
+    background-color:#011c38 ;
+    color:#fff;
+    font-size: 20px;
+    padding: 10%;
+    margin-left:7% ;
+}

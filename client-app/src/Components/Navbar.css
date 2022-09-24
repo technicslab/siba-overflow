@@ -1,0 +1,38 @@
+
+.topNavBar {
+
+    border:1px  solid #e7e6e4 !important;
+    padding: 10px;
+    background-color: white;
+}
+.userPic{
+    height: 50px;
+    width: 50px;
+}
+.searchInput{
+    width:50%;
+    border-radius:10px;
+    padding: 5px;
+    border-color:#d5d4d2 ;
+}
+.loginBtn{
+    background-color:#ea6645 ;
+}
+.registerBtn{
+    border:1px solid #ea6645;
+    background-color: white;
+}
+.searchInput:focus{
+    
+  outline: none;
+ 
+}
+.topNavBar *{
+
+    color: rgb(102, 101, 101);
+}
+.siteTitle{
+    font-size:20px;
+    color:#011c38;
+    font-weight: bolder;
+}

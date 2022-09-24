@@ -1,0 +1,37 @@
+.PromoAreaTitle{
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+.tutor_1{
+    height:500px;
+    width: 350px;
+    margin-left:40%;
+    border-radius: 10%;
+    
+}
+.tutor_2{
+    height:500px;
+    width: 350px;
+    margin-left: 40%;
+    border-radius: 10%;
+}
+.tutor_1_text{
+    font-size: 17px;
+    margin-top: 1em;
+    margin-left:40%;
+    margin-right: 5%;
+    color: #011c38;
+}
+.tutor_2_text{
+    font-size: 17px;
+    margin-top: 1em;
+    margin-left:40%;
+    margin-right: 5%;
+    color: #011c38;
+}
+.line{
+    margin-top:1em;
+    color:#ea6645 ;
+    border: 3px solid #ea6645 ;
+}
